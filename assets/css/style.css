@@ -3,7 +3,7 @@
     border: 1px solid #e6e6e6;
     border-radius: 3px;
     margin-bottom: 20px;
-    margin-top: 20px;
+    margin-top: 10px;
     padding: 10px;
     border: 1rem;
     position: relative;
@@ -11,4 +11,8 @@
 }
 h4{
     margin-left: 35px;
+}
+img{
+    margin-left: 40px; 
+    width: 80%;
 }
